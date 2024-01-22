@@ -7,4 +7,12 @@ Votre mission en tant que data analyst chez BottleNeck consiste à rapprocher le
 
 À l'aide des exports d'ERP et de la table produit de la plateforme de vente en ligne, vous devrez créer un lien entre les références des produits, calculer le chiffre d'affaires par produit, ainsi que le total du chiffre d'affaires en ligne.
 
-De plus, vous devrez détecter d'éventuelles erreurs de saisie dans les prix des produits, les lister et les représenter graphiquement. Les résultats seront présentés lors de la prochaine réunion de COPIL à l'aide d'un notebook en Python.  
+De plus, vous devrez détecter d'éventuelles erreurs de saisie dans les prix des produits, les lister et les représenter graphiquement. Les résultats seront présentés lors de la prochaine réunion de COPIL à l'aide d'un notebook en Python. 
+
+### Objectifs projet 5 :
+
+- Réaliser une analyse univariée pour interpréter des données;
+  
+- Classifier différents types de données;
+  
+- Gérer les erreurs et les incohérences présentes sur des données stockées. 
